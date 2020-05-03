@@ -18,7 +18,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "D:\\my\\.NET core\\Tutorial\\GradeBook\\src\\GradeBook\\GradeBook.csproj": {
+            "projectPath": "D:\\my\\.NET core\\Tutorial\\GradeBook\\src\\GradeBook\\GradeBook.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
